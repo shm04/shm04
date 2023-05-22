@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+<h2> Hi there 👋🏻 </h2>
+<h1> I´m Sebastián Hernández </h1>
+</div>
 
-<!--
-**shm04/shm04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I´m currently a full-stack web developer student at Microverse. 💻👨🏻‍🎓 | Focused on learning and working hard to contribute to great projects. 🥇| A passionate individual driven to achieve his goals. 💪🏻 | Passionate about technology. 👨🏻‍💻 | A fan of artificial intelligence. 💻🧠 | Enthusiastic about sports and video games. 🏈🎮
 
-Here are some ideas to get you started:
+<div align="center" justify="center">
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shm04&layout=compact"></a>
+<a href="https://github.com/shm04/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=shm04&show_icons=true&theme=onedark" alt="Readme Card"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
