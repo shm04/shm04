@@ -3,7 +3,7 @@
 <h1> I´m Sebastián Hernández </h1>
 </div>
 
-I´m currently a full-stack web developer student at Microverse. 💻👨🏻‍🎓 | Focused on learning and working hard to contribute to great projects. 🥇| A passionate individual driven to achieve his goals. 💪🏻 | Passionate about technology. 👨🏻‍💻 | A fan of artificial intelligence. 💻🧠 | Enthusiastic about sports and video games. 🏈🎮
+I´m a full-stack web developer. 💻👨🏻‍🎓 | Focused on learning and working hard to contribute to great projects. 🥇| A passionate individual driven to achieve his goals. 💪🏻 | Passionate about technology. 👨🏻‍💻 | A fan of artificial intelligence. 💻🧠 | Enthusiastic about sports and video games. 🏈🎮
 
 <div align="center" justify="center">
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shm04&layout=compact"></a>
