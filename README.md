@@ -7,13 +7,14 @@
 
 ---
 
-I'm a versatile and committed developer with a passion for building efficient, scalable, and dynamic web applications. My journey in software development is driven by curiosity and a constant desire to learn and grow. I thrive on solving real-world challenges through code and leveraging modern technologies to create impactful solutions. 
+I'm a versatile, committed developer passionate about building efficient, scalable, and dynamic web applications. My journey in software development is driven by curiosity and a constant desire to learn and grow. I thrive on solving real-world challenges through code and leveraging modern technologies to create impactful solutions. 
 
 ### 💡 **What I Do**  
 - 🔧 Building full-stack applications with **React**, **Node.js**, **Ruby on Rails**, and **PostgreSQL**  
 - 🌱 Exploring new technologies like **Machine Learning**, **Artificial Intelligence**, and **Flutter**  
 - 💬 Mentoring junior developers and sharing knowledge within the community  
 - 💻 Collaborating on open-source projects and contributing to innovative ideas  
+- 🌐 Working on freelance projects and client solutions through [Elevate Logy](https://github.com/elevate-logy)  
 
 ### 🌍 **Let's Connect!**  
 - 📫 [LinkedIn](https://www.linkedin.com/in/sebastian-hernandez-munoz/)  
