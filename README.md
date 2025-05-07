@@ -16,7 +16,7 @@ I'm a versatile and committed developer with a passion for building efficient, s
 - 💻 Collaborating on open-source projects and contributing to innovative ideas  
 
 ### 🌍 **Let's Connect!**  
-- 📫 [LinkedIn](https://www.linkedin.com/in/sebastianhernandez)  
+- 📫 [LinkedIn](https://www.linkedin.com/in/sebastian-hernandez-munoz/)  
 - 📝 [Portfolio](https://shm04.github.io)  
 - 🎯 Always open to collaboration and new opportunities!  
 
